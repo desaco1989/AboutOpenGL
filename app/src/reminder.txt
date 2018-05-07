@@ -1,0 +1,17 @@
+向量和矩阵、线性变换等内容，本节开始学习OpenGL中的坐标处理。OpenGL中的坐标处理过程包括模型变换、视变换、投影变换、视口变换等内容
+https://github.com/wangdingqiao/noteForOpenGL/tree/master/modelTransformation
+https://github.com/doggycoder/AndroidOpenGLDemo
+
+1.openGL 2D/3D的旋转 平移 缩放 剪切？OpenGL中的平移、旋转、缩放?
+2.OpenGL中的坐标处理包括模型变换、视变换、投影变换、视口变换等内容
+3.android opengl es添加纹理，绘制立方体纹理，立方体使用不同纹理?
+4.openGL经常使用的场景有：http://blog.csdn.net/junzia
+  1.图片处理。比如图片色调转换、美颜等。
+  2.摄像头预览效果处理。比如美颜相机、恶搞相机等。
+  3.视频处理。摄像头预览效果处理可以，这个自然也不在话下了。
+  4.3D游戏。比如神庙逃亡、都市赛车等。
+
+5.如3D模型加载、贴图、阴影、粒子、混合与雾、标志板、天空盒和与天空穹等
+6.纹理、光照、混合与雾、图像处理等?
+
+1.视频的滤镜美颜等？
