@@ -19,7 +19,7 @@ import javax.microedition.khronos.egl.EGLConfig;
 import javax.microedition.khronos.opengles.GL10;
 
 /**
- * openGL渲染VR全景图及双目观看
+ * openGL渲染VR全景图及单目观看
  * Created by desaco on 2018/5/7.
  */
 
